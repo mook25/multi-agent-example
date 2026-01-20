@@ -16,7 +16,7 @@
 ### 설치 방법
 
 **1단계**: 아래 링크에서 설치 파일 다운로드
-- 👉 [install.command 다운로드](https://github.com/dcent-mkt/content-multiagent/raw/main/install.command)
+- 👉 [install.command 다운로드]
 
 **2단계**: 다운로드된 `install.command` 파일 **더블클릭**
 
@@ -120,7 +120,7 @@ VSCode 터미널에서 (`Ctrl + \``):
 
 ```bash
 cd ~/Desktop
-git clone https://github.com/dcent-mkt/content-multiagent.git
+git clone https://github.com/0000000/content-multiagent.git
 cd content-multiagent/dzine-mcp && npm install && cd ..
 ```
 
