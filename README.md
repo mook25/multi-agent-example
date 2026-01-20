@@ -17,16 +17,16 @@ Claude Code 기반의 블로그 콘텐츠 자동 생성 시스템입니다. AI �
 
 ## 빠른 시작 (Quick Start)
 
-> 🆕 **처음이신가요?** 개발 경험이 없다면 [비개발자용 가이드](docs/ONBOARDING.md)를 먼저 읽어보세요!
+> 🆕 **처음이신가요?** 개발 경험이 없다면 [비개발자용 가이드](multi-agent-example/blob/main/ONBOARDING.md)를 먼저 읽어보세요!
 
 ### 1단계: 사전 요구사항
 
 | 항목 | 필수 | 설명 |
 |------|------|------|
-| Claude Code | ✅ | [설치 가이드](https://docs.anthropic.com/en/docs/claude-code) |
+| Claude Code | ✅ | [설치 가이드] |
 | Anthropic 계정 | ✅ | Pro/Max 구독 또는 API 키 |
 | Node.js | ✅ | v18 이상 |
-| Dzine API 키 | ⬜ | 이미지 생성용 - [발급하기](https://www.dzine.ai/api/) |
+| Dzine API 키 | ⬜ | 이미지 생성용 - [발급하기] |
 | Figma 데스크톱 | ⬜ | 썸네일 자동화용 |
 
 ### 2단계: 설치
@@ -206,10 +206,10 @@ node server.js
 
 | 문서 | 설명 |
 |------|------|
-| [Brand_Tone_Rules.md](guide/Brand_Tone_Rules.md) | 브랜드 톤, 금지/권장 표현 |
-| [SEO_Playbook_2026.md](guide/SEO_Playbook_2026.md) | SEO 구조, FAQ 설계, E-E-A-T |
-| [Image_Style_Guide.md](guide/Image_Style_Guide.md) | 이미지 스타일, 프롬프트 가이드 |
-| [Feedback_Log.md](guide/Feedback_Log.md) | 누적 피드백 및 적용 규칙 |
+| [Brand_Tone_Rules.md) | 브랜드 톤, 금지/권장 표현 |
+| [SEO_Playbook_2026.md] | SEO 구조, FAQ 설계, E-E-A-T |
+| [Image_Style_Guide.md] | 이미지 스타일, 프롬프트 가이드 |
+| [Feedback_Log.md] | 누적 피드백 및 적용 규칙 |
 
 ---
 
@@ -261,11 +261,6 @@ node server.js
 - ⚠️ `.gitignore`가 설정되어 있지만, 커밋 전 항상 확인하세요
 - ⚠️ 민감한 정보가 포함된 `output/` 폴더는 필요시 `.gitignore`에 추가하세요
 
----
-
-## 라이선스
-
-이 프로젝트는 내부 사용 목적으로 제작되었습니다.
 
 ---
 
