@@ -1,4 +1,4 @@
-# D'CENT 콘텐츠 마케팅 팀
+콘텐츠 마케팅 팀
 
 Claude Code 기반의 블로그 콘텐츠 자동 생성 시스템입니다. AI 에이전트가 리서치부터 글 작성, 이미지 생성, Shopify HTML 변환까지 전 과정을 자동화합니다.
 
@@ -8,7 +8,7 @@ Claude Code 기반의 블로그 콘텐츠 자동 생성 시스템입니다. AI �
 |------|------|
 | 🎯 콘텐츠 기획 | SEO 키워드 전략, 콘텐츠 구조 설계 |
 | ✍️ 블로그 작성 | 브랜드 톤에 맞는 다국어(EN/JP/KO) 콘텐츠 |
-| 🎨 이미지 생성 | Dzine AI로 썸네일, 섹션 이미지, 카드뉴스 |
+| 🎨 이미지 생성 | AI로 썸네일, 섹션 이미지, 카드뉴스 |
 | 🖼️ 썸네일 자동화 | Figma 템플릿 기반 썸네일 자동 생성 |
 | 📦 HTML 변환 | Shopify 블로그용 HTML 자동 생성 |
 | ✅ 품질 검수 | 팩트체크, SEO 점검, 브랜드 가이드 준수 확인 |
@@ -33,7 +33,7 @@ Claude Code 기반의 블로그 콘텐츠 자동 생성 시스템입니다. AI �
 
 ```bash
 # 1. 저장소 클론
-git clone https://github.com/dcent-mkt/content-multiagent.git
+git clone https://github.com/0000-000/content-multiagent.git
 cd content-multiagent
 
 # 2. Dzine MCP 서버 설치
