@@ -17,7 +17,7 @@ Claude Code 기반의 블로그 콘텐츠 자동 생성 시스템입니다. AI �
 
 ## 빠른 시작 (Quick Start)
 
-> 🆕 **처음이신가요?** 개발 경험이 없다면 [비개발자용 가이드](multi-agent-example/blob/main/ONBOARDING.md)를 먼저 읽어보세요!
+> 🆕 **처음이신가요?** 개발 경험이 없다면 [비개발자용 가이드](https://github.com/mook25/multi-agent-example/blob/main/ONBOARDING.md)를 먼저 읽어보세요!
 
 ### 1단계: 사전 요구사항
 
